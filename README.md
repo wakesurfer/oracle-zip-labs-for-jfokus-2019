@@ -5,7 +5,22 @@
 
 # Oracle Cloud Labs for JFokus 2019 #
 
-These ziplabs are short and fast to complete.
+## First login to your lab environment ##
+
+Make sure you login using the username/password section on the right side of the login page.
+<img align="center" src="login.JPG" width = "956px">
+
+Use the credentials you got from your instructor.
+
+[https://console.us-ashburn-1.oraclecloud.com](https://console.us-ashburn-1.oraclecloud.com)
+
+Make sure the region on the top right say *eu-frankfurt-1*
+
+Now you are ready to start with the labs
+
+
+
+## These ziplabs are short and fast to complete ##
 
 + [Create a Virtual Cloud Network and a Virtual Machine Instance On Oracle Cloud Infrastructure Compute](https://github.com/oracle/learning-library/blob/master/ziplabs/oci-vm)
 + [Provisioning Autonomous Data Warehouse Cloud and Connecting with SQL Developer](https://github.com/oracle/learning-library/blob/master/ziplabs/adw-provisioning)
