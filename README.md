@@ -43,10 +43,7 @@ These labs take between 5-20 minutes to complete.
 
 Next level of OCI labs. They take roughly 20 minutes each to complete.
 
-+ [OCI Level 200 Hands-On Labs](https://github.com/oracle/learning-library/tree/master/oci-library#oci-level-200-hands-on-labs)
-
 + [Service Gateway, 5 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Using_Service_Gateway/Using_Service_Gateway_HOL.md)
-
 + [NAT Gateway, 20 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L200-LAB/NAT_Gateway/nat_gateway.md)
 + [VCN Local Peering Connection, 20 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L200-LAB/VCN_Local_Peering/vcn_local_peering.md)
 + [Compute Console Connection, 20 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L200-LAB/Compute-Console-Connection/HOL-Console-Connection.md)
@@ -57,12 +54,8 @@ Next level of OCI labs. They take roughly 20 minutes each to complete.
 
 DevOps labs on OCI. They take between 15-30 minutes to complete.
 
-+ [OCI DevOps Hands-On Labs](https://github.com/oracle/learning-library/tree/master/oci-library#oci-devops-hands-on-labs)
-
 + [Terraform and Container Engine for Kubernetes (OKE), 30 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/DevOps/Terraform-and-OKE-LAB/tf_oke_hol.md)
-
 + [Oracle Cloud Infrastructure Registry, 15 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/DevOps/Container_Registry/Container_Registry_HOL.md)
-
 + [Deploying Jenkins, 30 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/DevOps/Deploying_Jenkins/Deploying_Jenkins_HOL.md)
 
 ----
