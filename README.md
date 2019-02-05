@@ -25,7 +25,19 @@ The ziplabs are short and fast to complete.
 Foundational labs for Oracle Cloud Infrastructure OCI.
 These labs take between 5-20 minutes to complete.
 
-+ [OCI Level 100 Hands-On Labs](https://github.com/oracle/learning-library/tree/master/oci-library#oci-level-100-hands-on-labs)
++ [Identity and Access Management Service, 5 minutes]https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Identity_Access_Management/IAM_HOL.md)
++ [Virtual Cloud Network, 5 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Virtual_Cloud_Network/VCN_HOL.md)
++ [Compute Service, 10 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Compute_Services/Compute_HOL.md)
++ [Block Volume Service, 10 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Block_Volume/Block_Volume_HOL.md)
+
+File Storage Service 	Foundational 	10 minutes
+Object Storage Service 	Foundational 	5 minutes
+Load Balancer Service 	Foundational 	15 minutes
+Autonomous Data Warehouse 	Foundational 	20 minutes
+Audit Service 	Foundational 	5 minutes
+Reserved Public IP 	Foundational 	5 minutes
+Service Gateway 	Foundational 	5 minutes
+
 
 ----
 
