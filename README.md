@@ -5,8 +5,13 @@
 
 # Oracle Zip Labs for JFokus 2019 #
 
-Here are a selection of labs you can try during JFokus 2019.
-[Zip Lab 1](https://www.meetup.com/DiscoTech-By-Oracle/events/240960241/ "Lets Meetup and Connect Things to the Cloud"), you're at the right place!
+Here are a selection of ziplabs you can try during JFokus 2019.
+
+[Create a Virtual Machine Instance Using Oracle Cloud Infrastructure Compute](https://github.com/oracle/learning-library/blob/master/ziplabs/oci-vm)
+
+[Create a Virtual Machine Instance Using Oracle Cloud Infrastructure Compute](https://github.com/oracle/learning-library/blob/master/ziplabs/oci-vm)
+
+[Create a Virtual Machine Instance Using Oracle Cloud Infrastructure Compute](https://github.com/oracle/learning-library/blob/master/ziplabs/oci-vm)
 
 ## Introduction	##
 
