@@ -7,14 +7,17 @@
 
 ## First login to your lab environment ##
 
-Make sure you login using the username/password section on the right side of the login page.
-<img align="center" src="login.JPG" width = "956px">
+
+
+Open a supported browser and go to the Console URL: [https://console.us-ashburn-1.oraclecloud.com](https://console.us-ashburn-1.oraclecloud.com)
 
 Use the credentials you got from your instructor.
+Enter the tenant name: *gse00014383*
 
-[https://console.us-ashburn-1.oraclecloud.com](https://console.us-ashburn-1.oraclecloud.com)
+*NOTE:* Make sure you login using the username/password section on the right side of the login page.
+<img align="center" src="login.JPG" width = "956px">
 
-Make sure the region on the top right say *eu-frankfurt-1*
+After logging in make sure the region on the top right say *eu-frankfurt-1*. If it does not please change it to do so.
 
 Now you are ready to start with the labs
 
