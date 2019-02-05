@@ -20,7 +20,8 @@ Use the username and password you got from your instructor and login.
 
 After logging in make sure the region on the top right say *eu-frankfurt-1*. If it does not please change it to do so.
 
-Now you are ready to start with the labs
+Now you are ready to start with the labs!
+_Please note that you do not have administrator rights in these lab environments. This mean that user and access management tasks can not be performed like they would for example in your own trial environment_
 
 
 
@@ -44,7 +45,6 @@ Now you are ready to start with the labs
 Foundational labs for Oracle Cloud Infrastructure OCI.
 These labs take between 5-20 minutes to complete.
 
-+ [Identity and Access Management Service, 5 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Identity_Access_Management/IAM_HOL.md)
 + [Virtual Cloud Network, 5 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Virtual_Cloud_Network/VCN_HOL.md)
 + [Compute Service, 10 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Compute_Services/Compute_HOL.md)
 + [Block Volume Service, 10 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Block_Volume/Block_Volume_HOL.md)
