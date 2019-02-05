@@ -11,11 +11,12 @@
 
 Open a supported browser and go to the Console URL: [https://console.us-ashburn-1.oraclecloud.com](https://console.us-ashburn-1.oraclecloud.com)
 
-Use the credentials you got from your instructor.
 Enter the tenant name: *gse00014383*
 
 *NOTE:* Make sure you login using the username/password section on the right side of the login page.
 <img align="center" src="login.JPG" width = "956px">
+
+Use the username and password you got from your instructor and login.
 
 After logging in make sure the region on the top right say *eu-frankfurt-1*. If it does not please change it to do so.
 
