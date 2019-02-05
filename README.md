@@ -1,11 +1,12 @@
 
 ----
 
-<img align="center" src="instructions/images/meetupbanner.png" width = "956px">
+<!-- img align="center" src="instructions/images/meetupbanner.png" width = "956px" -->
 
-# IoT - Lets Connect Things to the Cloud #
+# Oracle Zip Labs for JFokus 2019 #
 
-If you are attending the meetup [Lets Meetup and Connect Things to the Cloud](https://www.meetup.com/DiscoTech-By-Oracle/events/240960241/ "Lets Meetup and Connect Things to the Cloud"), you're at the right place!
+Here are a selection of labs you can try during JFokus 2019.
+[Zip Lab 1](https://www.meetup.com/DiscoTech-By-Oracle/events/240960241/ "Lets Meetup and Connect Things to the Cloud"), you're at the right place!
 
 ## Introduction	##
 
