@@ -3,9 +3,9 @@
 
 <!-- img align="center" src="instructions/images/meetupbanner.png" width = "956px" -->
 
-# Oracle Labs for JFokus 2019 #
+# Oracle Cloud Labs for JFokus 2019 #
 
-Here are a selection of ziplabs that are short and fast to complete.
+The ziplabs are short and fast to complete.
 
 + [Create a Virtual Cloud Network and a Virtual Machine Instance On Oracle Cloud Infrastructure Compute](https://github.com/oracle/learning-library/blob/master/ziplabs/oci-vm)
 + [Provisioning Autonomous Data Warehouse Cloud and Connecting with SQL Developer](https://github.com/oracle/learning-library/blob/master/ziplabs/adw-provisioning)
@@ -25,14 +25,7 @@ Here are a selection of ziplabs that are short and fast to complete.
 Foundational labs for Oracle Cloud Infrastructure OCI.
 These labs take between 5-20 minutes to complete.
 
-+ [Setup an OCI Virtual Cloud Network](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Virtual_Cloud_Network/VCN_HOL.md)
-+ [Scaling, Performance, and Monitoring in ATP](aaaaaaaaaaaaaaaaaaa)
-+ [Scaling, Performance, and Monitoring in ATP](aaaaaaaaaaaaaaaaaaa)
-+ [Scaling, Performance, and Monitoring in ATP](aaaaaaaaaaaaaaaaaaa)
-+ [Scaling, Performance, and Monitoring in ATP](aaaaaaaaaaaaaaaaaaa)
-+ [Scaling, Performance, and Monitoring in ATP](aaaaaaaaaaaaaaaaaaa)
-
-
++ [OCI Level 100 Hands-On Labs](https://github.com/oracle/learning-library/tree/master/oci-library#oci-level-100-hands-on-labs)
 
 ----
 
@@ -40,10 +33,14 @@ These labs take between 5-20 minutes to complete.
 
 Next level of OCI labs. They take roughly 20 minutes each to complete.
 
++ [OCI Level 200 Hands-On Labs](https://github.com/oracle/learning-library/tree/master/oci-library#oci-level-200-hands-on-labs)
+
 ----
 
 ## OCI DevOps Hands-On Labs ## 
 
 DevOps labs on OCI. They take between 15-30 minutes to complete.
+
++ [OCI DevOps Hands-On Labs](https://github.com/oracle/learning-library/tree/master/oci-library#oci-devops-hands-on-labs)
 
 ----
