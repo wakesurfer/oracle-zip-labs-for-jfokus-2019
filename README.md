@@ -35,7 +35,7 @@ These labs take between 5-20 minutes to complete.
 + [Autonomous Data Warehouse, 20 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Autonomous_Data_Warehouse/ADW_HOL.md)
 + [Audit Service, 5 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Audit_Service/AUDIT_HOL.md)
 + [Reserved Public IP, 5 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Using_Reserved_Public_IP/Reserved_Public_IP_HOL.md)
-+ [Service Gateway, 5 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Using_Service_Gateway/Using_Service_Gateway_HOL.md)
++ [Service Gateway, 5 minutes](https://github.com/oracle/learning-library/blob/master/oci-library/L100-LAB/Using_Service_GatewayUsing_Service_Gateway_HOL.md)
 
 ----
 
